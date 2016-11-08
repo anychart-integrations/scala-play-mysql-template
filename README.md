@@ -5,12 +5,10 @@ Scala Play basic template
 This example shows how to run Anychart library with the Scala programming language using Play framework 2.5.x and MySQL.
 
 ### Running
-To use this sample you must have:
-
 To use this sample you must have Java, Scala, Activator and Mysql installed,
-if you do not have Java, please, visit [Java download page](https://java.com/download/)
-if you do not have Scala, please, visit [Scala official site](http://www.scala-lang.org/),
-if you do not have Activator, please, visit [Activator download page](https://www.lightbend.com/activator/download),
+if you do not have Java, please, visit [Java download page](https://java.com/download/);
+if you do not have Scala, please, visit [Scala official site](http://www.scala-lang.org/);
+if you do not have Activator, please, visit [Activator download page](https://www.lightbend.com/activator/download);
 if you do not have MySQL, please, visit [MySQL download page](https://dev.mysql.com/downloads/installer/) and follow [instructions](http://dev.mysql.com/doc/refman/5.7/en/installing.html)
 
 To check your Java installation, run following command in command line:
@@ -97,14 +95,14 @@ scala-play-mysql-template/
     test/
     .gitignore
     build.sbt
-    database_backup.sql     # use this file to set your MySQL database
+    database_backup.sql                     # use this file to set your MySQL database
     LICENSE
     README.md
 ```
-More about anatomy of Play application you can see [here](https://www.playframework.com/documentation/2.5.x/Anatomy)
+More about anatomy of Play application you can see [here](https://www.playframework.com/documentation/2.5.x/Anatomy).
 
 ## Technologies
-Platform - [Java](https://java.com/)
+Platform - [Java](https://java.com/)<br />
 Language - [Scala](http://www.scala-lang.org/)<br />
 Database - [MySQL](https://www.mysql.com/)<br />
 Web framework - [Play](https://www.playframework.com)<br />
